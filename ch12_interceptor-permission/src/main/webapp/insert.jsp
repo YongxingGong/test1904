@@ -11,6 +11,6 @@
     <title>Title:test Git use</title>
 </head>
 <body>
-
+  姓名：<input type="text" id="name" name="myName"/>
 </body>
 </html>
